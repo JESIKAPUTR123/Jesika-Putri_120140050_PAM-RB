@@ -1,4 +1,4 @@
-.table-nilai{
+    .table-nilai{
     width: 280px;
     height: 630px;
     font-size: 10px;
@@ -27,7 +27,7 @@ th {
     border: 1px solid white;
     text-align: center;
     padding: 10px;
-    background-color: aqua;
+    background-color: rgb(145, 199, 250);
 }
 
 td {
@@ -37,5 +37,5 @@ td {
 }
 
 body {
-    background-color: rgb(60, 58, 58);
+    background-color: rgb(3, 3, 3);
 }
